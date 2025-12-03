@@ -1,0 +1,6 @@
+{
+    "start": "2025-12-01",
+    "end": "2025-12-31",
+    "min_meeting_duration_hours": 3,
+    "Theme": "조용한 대화"
+}

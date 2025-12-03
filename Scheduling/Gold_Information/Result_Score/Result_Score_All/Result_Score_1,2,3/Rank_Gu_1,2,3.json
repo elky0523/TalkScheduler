@@ -1,0 +1,102 @@
+[
+  {
+    "구": "마포구",
+    "average_score": 0.7698
+  },
+  {
+    "구": "영등포구",
+    "average_score": 0.7586
+  },
+  {
+    "구": "동작구",
+    "average_score": 0.7583
+  },
+  {
+    "구": "중구",
+    "average_score": 0.7539
+  },
+  {
+    "구": "서대문구",
+    "average_score": 0.7514
+  },
+  {
+    "구": "강서구",
+    "average_score": 0.7417
+  },
+  {
+    "구": "은평구",
+    "average_score": 0.7347
+  },
+  {
+    "구": "용산구",
+    "average_score": 0.733
+  },
+  {
+    "구": "구로구",
+    "average_score": 0.7319
+  },
+  {
+    "구": "관악구",
+    "average_score": 0.7297
+  },
+  {
+    "구": "성동구",
+    "average_score": 0.7279
+  },
+  {
+    "구": "성북구",
+    "average_score": 0.7273
+  },
+  {
+    "구": "종로구",
+    "average_score": 0.7209
+  },
+  {
+    "구": "동대문구",
+    "average_score": 0.7174
+  },
+  {
+    "구": "광진구",
+    "average_score": 0.7159
+  },
+  {
+    "구": "양천구",
+    "average_score": 0.7137
+  },
+  {
+    "구": "금천구",
+    "average_score": 0.7085
+  },
+  {
+    "구": "강동구",
+    "average_score": 0.6975
+  },
+  {
+    "구": "노원구",
+    "average_score": 0.6928
+  },
+  {
+    "구": "강남구",
+    "average_score": 0.6839
+  },
+  {
+    "구": "강북구",
+    "average_score": 0.6789
+  },
+  {
+    "구": "송파구",
+    "average_score": 0.6789
+  },
+  {
+    "구": "서초구",
+    "average_score": 0.6762
+  },
+  {
+    "구": "중랑구",
+    "average_score": 0.6741
+  },
+  {
+    "구": "도봉구",
+    "average_score": 0.6703
+  }
+]

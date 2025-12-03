@@ -1,0 +1,12 @@
+{
+    "w_Mon": 0.05,
+    "w_Tue": 0.05,
+    "w_Wed": 0.05,
+    "w_Thu": 0.05,
+    "w_Fri": 0.06,
+    "w_Sat": 0.11,
+    "w_Sun": 0.11,
+    "w_Today_Dayoff": 0.2,
+    "w_Tomorrow_Dayoff": 0.13,
+    "w_Time": 0.19
+}

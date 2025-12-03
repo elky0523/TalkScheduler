@@ -1,0 +1,11 @@
+{
+    "X": 37.5252,
+    "Y": 126.9248,
+    "age_score": 0.7,
+    "population_score": 0.3,
+    "cost_score": 0.59,
+    "subway_score": 0.2,
+    "bus_score": 0.3,
+    "car_score": 0.92,
+    "store_score": 0.51
+}

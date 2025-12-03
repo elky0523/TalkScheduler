@@ -1,0 +1,11 @@
+{
+    "w_X": 0.14,
+    "w_Y": 0.14,
+    "w_age_score": 0.06,
+    "w_population_score": 0.06,
+    "w_cost_score": 0.3,
+    "w_subway_score": 0.1,
+    "w_bus_score": 0.07,
+    "w_car_score": 0.03,
+    "w_store_score": 0.1
+}
